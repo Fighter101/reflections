@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	git init creates the .git directory thus making it a repository,
+	which is required to use any of the git functionality.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	it's like a temp repository, and used to store thing in 
+	a middle place between the repository and the working directory
+	it's useful when you have second thoughts in which files to add
