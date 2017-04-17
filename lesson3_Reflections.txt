@@ -15,4 +15,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   to write all those commands, also not having to stick with a certain work flow
   what would be harder is that merging the code base especially if
   it's a large one would not be practical, even can be impossible
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  when working on Ur own project it's easier to work on the master
+  branch as U tend to solve conflicts as U go. however, while working
+  with other people U would want every one to stay informed about the
+  changes in the code so no one is surprised so U use brances and
+  pull requests.
 
