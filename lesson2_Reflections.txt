@@ -12,3 +12,15 @@ What are some situations when branches would be helpful in keeping your history 
 	branches will surely help when trying to create some change in ur code that
 	u are not will work, brancehs make it very easy to do the change, submit if
 	works and discard if doesn't
+How do the diagrams help you visualize the branch structure?
+	Mind can understand any thing easier if it was in a graphical 
+	representaion instead of just plain text
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Merging two branches will automatically make git put the added
+	lines together creating a new line with all the features
+	we represent it like that as it's merging two versions of the
+	same file but with added features
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Automatic merging is way easier, however in some cases the user
+	must intervene to prevent loss of data, or producing an unrunnable
+	code
